@@ -7,7 +7,7 @@ N-Queens is a combinatorial problem based on chess. Regarding queens can attack 
 This project demonstrates the n-queens problem solution and solves them via **Hill Climbing**, **Simulated Annealing**, **Local Beam Search**, and **Genetic Algorithm**.
 
 ## Demonstration
-![N Queens Problem](n-queens.png)
+![N Queens Problem](N-queens.png)
 
 ## Parameters
 
